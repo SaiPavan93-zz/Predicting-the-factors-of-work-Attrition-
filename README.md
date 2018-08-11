@@ -1,1 +1,1 @@
-# Prediction the factors of work Attrition 
+# Predicting the factors of work Attrition 
